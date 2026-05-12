@@ -2,6 +2,8 @@
 
 This is a showcase website built with the **AETHER Framework**. 
 
+![Proof of Concept](poc.png)
+
 ## Features
 - **Modern Design**: Built with glassmorphism and premium aesthetics.
 - **AETHER Powered**: Uses the lightweight, high-performance AETHER core.
